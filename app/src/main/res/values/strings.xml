@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="CadastroAlunos" />
+    <string name="Nome">Informe Nome</string>
+    <string name="Telefone">Informe telefone</string>
+    <string name="Email">Informe e-mail</string>
+    <string name="Site">Informe site</string>
+    <string name="Nota">Informe nota</string>
+    <string name="nome">Informe o nome</string>
+    <string name="telefone">Informe o telefone</string>
+    <string name="email">Informe o e-mail</string>
+    <string name="avaliacao">Avalire o app</string>
+    <string name="site">Informe o site</string>
+</resources>
